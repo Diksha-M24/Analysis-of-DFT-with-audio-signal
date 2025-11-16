@@ -95,9 +95,10 @@ Top 10 Dominant Frequencies:
  8.   298.77 Hz  (Magnitude = 4.41e+00)
  9.   253.02 Hz  (Magnitude = 4.36e+00)
 10.   304.16 Hz  (Magnitude = 4.30e+00)
+```
 <img width="384" height="238" alt="image" src="https://github.com/user-attachments/assets/799fc932-4dc2-42d3-a3cf-bcf906ab8513" />
 <img width="357" height="143" alt="image" src="https://github.com/user-attachments/assets/b451c85c-9ad6-4875-a106-81821fe25ece" />
-```
+
 
 # RESULTS
 THUS,THE ANALYSIS OF DFT WITH AUDIO SIGNAL IS VERIFIED
